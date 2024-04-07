@@ -6,7 +6,7 @@ const Form = () => {
   return (
     <div className="form">
         <form>
-            <label htmlFor="">Your Name</label>
+            <label htmlFor="">Submit Your Name</label>
             <input type="text" />
             <label htmlFor="">Email</label>
             <input type="email" />
